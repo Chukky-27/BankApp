@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Decagon-Task-Submission\week-2-task-Chukky-27\BankApp\Core2\bin\Debug\net7.0\MF.Core.deps.json
+C:\Users\user\Desktop\Decagon-Task-Submission\week-2-task-Chukky-27\BankApp\Core2\bin\Debug\net7.0\MF.Core.dll
+C:\Users\user\Desktop\Decagon-Task-Submission\week-2-task-Chukky-27\BankApp\Core2\bin\Debug\net7.0\MF.Core.pdb
+C:\Users\user\Desktop\Decagon-Task-Submission\week-2-task-Chukky-27\BankApp\Core2\bin\Debug\net7.0\MF.Data.dll
+C:\Users\user\Desktop\Decagon-Task-Submission\week-2-task-Chukky-27\BankApp\Core2\bin\Debug\net7.0\MF.Data.pdb
+C:\Users\user\Desktop\Decagon-Task-Submission\week-2-task-Chukky-27\BankApp\Core2\obj\Debug\net7.0\MF.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Decagon-Task-Submission\week-2-task-Chukky-27\BankApp\Core2\obj\Debug\net7.0\MF.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Decagon-Task-Submission\week-2-task-Chukky-27\BankApp\Core2\obj\Debug\net7.0\MF.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Decagon-Task-Submission\week-2-task-Chukky-27\BankApp\Core2\obj\Debug\net7.0\MF.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\Decagon-Task-Submission\week-2-task-Chukky-27\BankApp\Core2\obj\Debug\net7.0\MF.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Decagon-Task-Submission\week-2-task-Chukky-27\BankApp\Core2\obj\Debug\net7.0\MF.Core.csproj.CopyComplete
+C:\Users\user\Desktop\Decagon-Task-Submission\week-2-task-Chukky-27\BankApp\Core2\obj\Debug\net7.0\MF.Core.dll
+C:\Users\user\Desktop\Decagon-Task-Submission\week-2-task-Chukky-27\BankApp\Core2\obj\Debug\net7.0\refint\MF.Core.dll
+C:\Users\user\Desktop\Decagon-Task-Submission\week-2-task-Chukky-27\BankApp\Core2\obj\Debug\net7.0\MF.Core.pdb
+C:\Users\user\Desktop\Decagon-Task-Submission\week-2-task-Chukky-27\BankApp\Core2\obj\Debug\net7.0\ref\MF.Core.dll
